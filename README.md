@@ -17,7 +17,7 @@ This batch script automates the setup process for Flutter development on Windows
 
 - **Windows operating system**
 - **Git installed and configured**
-- **Flutter SDK installed**
+- **Flutter SDK installed** (The batch script **should be placed inside the Flutter SDK folder** for proper execution)
 - **Android SDK installed** (You will be prompted to select the SDK path during the script execution)
 
 ## Usage
